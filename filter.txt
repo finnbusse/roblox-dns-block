@@ -1,0 +1,26 @@
+!Roblox DNS filter list for AdGuard Home
+!
+!
+!
+!
+!
+!------------------------
+!    Finn Busse 2023
+!------------------------
+!
+!
+!
+!
+||blox.com^
+||rbx.com^
+||rbx.cn^
+||rbxcdn.com^
+||rbxcdn.net^
+||rbxinfra.com^
+||rbxinfra.net^
+||roblox.cn^
+||roblox.com^
+||roblox.qq.com^
+||robloxcdn.com^
+||robloxdev.cn^
+||rbxadder.com^
